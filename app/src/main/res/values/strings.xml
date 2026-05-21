@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">مدينة ألعاب نور المقدادية</string>
+    <string name="home">الرئيسية</string>
+    <string name="games">الألعاب</string>
+    <string name="birthdays">الحفلات والرحلات</string>
+    <string name="gallery">المعرض</string>
+    <string name="contact">اتصل بنا</string>
+    <string name="search_hint">ابحث عن لعبة...</string>
+    <string name="total_price">السعر الإجمالي:</string>
+    <string name="book_now">احجز الآن</string>
+    <string name="share">مشاركة</string>
+</resources>

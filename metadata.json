@@ -1,0 +1,6 @@
+{
+  "name": "مدينة ألعاب نور المقدادية",
+  "description": "التطبيق الرسمي لمدينة ألعاب نور المقدادية في ديالى، العراق - استكشف الألعاب، العروض، احجز رحلاتك وحفلاتك واطلع على أحدث الأخبار.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
